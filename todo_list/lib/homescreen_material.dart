@@ -131,6 +131,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 );
               });
         },
+        tooltip: 'Add New Task',
         child: const Icon(Icons.add),
       ),
     );
